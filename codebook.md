@@ -1,10 +1,3 @@
----
-output:
-html_document:
-keep_md: yes
-cache: true
-fig.path: 'figure/'
----
 Exploratory Data Analysis: Project 1
 =======================================
 
